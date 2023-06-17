@@ -2439,4 +2439,28 @@
         }
       ]
   }
+  
+  {
+  "github_username": "Dharshan078",
+  "Social_media": {
+    "gitHub": "https://github.com/Dharshan078",
+    "LinkedIn": "https://www.linkedin.com/in/sivadharshan-v-ab35a11b5/",
+    "Instagram": "https://www.instagram.com/dharsh_official_/",
+  },
+  "Projects": [
+    {
+      "link": "https://github.com/Dharshan078/Brazilia-Italia-Restaurant",
+      "title": "BRAZILIA ITALIA",
+      "description": "This website works in a simple way. The main focus of this website to check food menu, features and buying their kitchen items from website",
+      "tech": ["React.js", "BootStrap"]
+    },
+    {
+      "link": "https://github.com/Dharshan078/Little-Lemon-Mediterranean-Restaurant",
+      "title": "LITTLE LEMON",
+      "description": "This is the Little Lemon Mediterranean Restuarnt focused for table resrving fuction using React forms",
+      "tech": ["React.js", "Chakra UI"]
+    }
+  ]
+}
+
 ]
